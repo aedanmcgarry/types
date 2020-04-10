@@ -1,5 +1,5 @@
 {
-  "name": "storydriven/types",
+  "name": "chirprooms/types",
   "description": "WP Types",
   "type": "wordpress-plugin",
   "require": {
