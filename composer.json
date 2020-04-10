@@ -1,0 +1,15 @@
+{
+  "name": "storydriven/types",
+  "description": "WP Types",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.0"
+  },
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Aedan McGarry",
+      "email": "aedan@storydriven.com"
+    }
+  ]
+}
